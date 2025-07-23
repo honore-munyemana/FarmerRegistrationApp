@@ -46,5 +46,3 @@ In future, we can:
 
 ---
 
-## Folder Structure
-
